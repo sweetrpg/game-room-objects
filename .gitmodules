@@ -1,0 +1,12 @@
+[submodule "go"]
+	path = go
+	url = git@github.com:sweetrpg/shelf-objects.go.git
+[submodule "python"]
+	path = python
+	url = git@github.com:sweetrpg/shelf-objects.py.git
+[submodule "rust"]
+	path = rust
+	url = git@github.com:sweetrpg/shelf-objects.rs.git
+[submodule "swift"]
+	path = swift
+	url = git@github.com:sweetrpg/shelf-objects.swift.git
